@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\ruchi\Downloads\user-service\microservices_workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1790927900.index
+832351157.index
+1704979481.index
+2351872158.index
+103623585.index
+3706530402.index
