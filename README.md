@@ -78,6 +78,7 @@ cd api-gateway && mvn spring-boot:run
 4. Order     →  POST  http://localhost:8080/orders           → requires JWT header
 ```
 
+
 ## Author
 
 **Ruchita Jerripotula**
